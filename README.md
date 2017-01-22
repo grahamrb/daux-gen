@@ -1,6 +1,6 @@
 # daux-gen
 
-[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/grahamrb/daux-gen/master/LICENSE)
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/grahamrb/daux-gen/master/LICENSE) [![Docker Automated Build](https://img.shields.io/badge/docker-automated-blue.svg)](https://hub.docker.com/r/grahamrb/daux-gen/)
 
 Simple Docker image to generate documentation from Markdown using the [DAUX.io](http://daux.io) documentation generation application. Documentation is written in Markdown.
 
